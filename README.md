@@ -1,4 +1,4 @@
-# SurvivalAnalysis
+# Survival Analysis on Drug Relapse
 
 ## Author
 Luis Aragon.
